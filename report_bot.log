@@ -1,0 +1,43 @@
+2025-02-08 14:25:25,792 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user1/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429CEF620>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:25,792 - WARNING - Skipping dangerous_user1 due to missing user ID.
+2025-02-08 14:25:28,189 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user2/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429CCB890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:28,191 - WARNING - Skipping dangerous_user2 due to missing user ID.
+2025-02-08 14:25:30,753 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user1/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429DC0190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:30,754 - WARNING - Skipping dangerous_user1 due to missing user ID.
+2025-02-08 14:25:33,277 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user2/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429CCB9D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:33,278 - WARNING - Skipping dangerous_user2 due to missing user ID.
+2025-02-08 14:25:35,874 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user1/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429CCB4D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:35,875 - WARNING - Skipping dangerous_user1 due to missing user ID.
+2025-02-08 14:25:38,387 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user2/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429CCB250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:38,387 - WARNING - Skipping dangerous_user2 due to missing user ID.
+2025-02-08 14:25:41,578 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user1/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429CCB890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:41,579 - WARNING - Skipping dangerous_user1 due to missing user ID.
+2025-02-08 14:25:43,957 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user2/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429CCAFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:43,957 - WARNING - Skipping dangerous_user2 due to missing user ID.
+2025-02-08 14:25:46,294 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user1/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A429CCAD50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:25:46,295 - WARNING - Skipping dangerous_user1 due to missing user ID.
+2025-02-08 14:25:48,624 - INFO - Script stopped manually.
+2025-02-08 14:33:20,684 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /accounts/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A15F36F620>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:44:27,629 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /melodymarksxxofficial/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002C373E0F620>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:44:27,630 - WARNING - User ID not found for melodymarksxxofficial.
+2025-02-08 14:47:02,453 - INFO - Script stopped manually.
+2025-02-08 14:47:05,477 - WARNING - Invalid URL: ers/Dark Code it/Desktop/React/git upload/Blocker.py/Blocke.py"
+2025-02-08 14:47:06,951 - ERROR - Error fetching user ID: Expecting value: line 1 column 1 (char 0)
+2025-02-08 14:47:06,952 - WARNING - User ID not found for melodymarksxxofficial.
+2025-02-08 14:47:06,953 - WARNING - Invalid URL: 2025-02-08 14:44:27,629 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /melodymarksxxofficial/?__a=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002C373E0F620>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-08 14:47:10,265 - WARNING - Invalid URL: 2025-02-08 14:44:27,630 - WARNING - User ID not found for melodymarksxxofficial.& "C:/Users/Dark Code it/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Dark Code it/Desktop/React/git upload/Blocker.py/Blocke.py"
+2025-02-08 14:47:18,665 - ERROR - Error fetching user ID: Expecting value: line 1 column 1 (char 0)
+2025-02-08 14:47:18,666 - WARNING - User ID not found for melodymarksxxofficial.
+2025-02-08 14:50:00,634 - WARNING - Invalid URL: & "C:/Users/Dark Code it/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Dark Code it/Desktop/React/git upload/Blocker.py/Blocke.py"
+2025-02-08 14:50:25,913 - ERROR - Error fetching user ID: Expecting value: line 1 column 1 (char 0)
+2025-02-08 14:50:25,915 - WARNING - User ID not found for melodymarksxxofficial.
+2025-02-08 14:50:34,589 - ERROR - Error fetching user ID: Expecting value: line 1 column 1 (char 0)
+2025-02-08 14:50:34,590 - WARNING - User ID not found for melodymarksxxofficial.
+2025-02-08 14:53:02,225 - WARNING - Invalid URL: & "C:/Users/Dark Code it/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Dark Code it/Desktop/React/git upload/Blocker.py/Blocke.py"
+2025-02-08 15:09:20,878 - INFO - Using proxy: {'http': 'http://123.45.67.89:8080', 'https': 'http://123.45.67.89:8080'}
+2025-02-08 15:09:30,895 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /dangerous_user1/?__a=1 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002702485F770>, 'Connection to 123.45.67.89 timed out. (connect timeout=10)')))
+2025-02-08 15:09:30,896 - WARNING - Skipping dangerous_user1 due to missing user ID.
+2025-02-08 15:09:40,911 - INFO - Script stopped manually.
+2025-02-08 15:14:59,031 - INFO - Using proxy: {'http': 'http://123.45.67.89:8080', 'https': 'http://123.45.67.89:8080'}
+2025-02-08 15:15:20,097 - INFO - Script stopped manually.
+2025-02-08 15:18:11,927 - INFO - Script stopped manually.

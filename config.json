@@ -1,0 +1,15 @@
+{
+    "api_url": "https://example.com/api/v1/",
+    "block_endpoint": "block_user",
+    "report_endpoint": "report_user",
+    "api_token": "your_api_token_here",
+    "proxy_list": [
+      {"http": "http://123.45.67.89:8080", "https": "http://123.45.67.89:8080"},
+      {"http": "http://98.76.54.32:3128", "https": "http://98.76.54.32:3128"},
+      {"http": "http://111.222.333.444:8080", "https": "http://111.222.333.444:8080"}
+    ],
+    "dangerous_accounts": [
+      {"url": "https://www.instagram.com/dangerous_user1/", "reason": "Promoting child abuse"},
+      {"url": "https://www.instagram.com/dangerous_user2/", "reason": "Dangerous content"}
+    ]
+  }
