@@ -41,3 +41,7 @@
 2025-02-08 15:14:59,031 - INFO - Using proxy: {'http': 'http://123.45.67.89:8080', 'https': 'http://123.45.67.89:8080'}
 2025-02-08 15:15:20,097 - INFO - Script stopped manually.
 2025-02-08 15:18:11,927 - INFO - Script stopped manually.
+2025-02-08 15:18:43,061 - INFO - Using proxy: {'http': 'http://98.76.54.32:3128', 'https': 'http://98.76.54.32:3128'}
+2025-02-08 15:19:04,136 - ERROR - Error fetching user ID: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: /melodymarksxxofficial/?__a=1 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000201F156F770>, 'Connection to 98.76.54.32 timed out. (connect timeout=30)')))
+2025-02-08 15:19:04,136 - WARNING - User ID not found for melodymarksxxofficial.
+2025-02-08 15:26:52,418 - WARNING - Invalid URL: & "C:/Users/Dark Code it/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Dark Code it/Desktop/React/git upload/Blocker.py/Blocke.py"
